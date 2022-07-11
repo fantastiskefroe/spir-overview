@@ -1,6 +1,6 @@
 <template>
   <h1>
-    Just a test
+    Just a test, right?
   </h1>
 </template>
 
